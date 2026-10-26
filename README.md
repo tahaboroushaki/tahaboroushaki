@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Taha Boroushaki 👋
 
-<!--
-**tahaboroushaki/tahaboroushaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer building my skills through consistent practice, experimentation, and real-world projects.
 
-Here are some ideas to get you started:
+## 🚀 My Coding Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this GitHub profile to document my progress, share what I learn, and keep track of the code I write — from small experiments and practice exercises to complete projects.
+
+## 💻 What You'll Find Here
+
+- 🧩 Small coding exercises and experiments
+- 📚 Learning notes and practice repositories
+- 🌐 Web development projects
+- 🛠️ Personal projects and prototypes
+- 🚀 New ideas I'm exploring
+
+## 🌱 Current Focus
+
+- Strengthening my programming fundamentals
+- Building practical projects
+- Improving my problem-solving skills
+- Learning to write clean, maintainable code
+
+## 🤝 Connect With Me
+
+- GitHub: [@tahaboroushaki](https://github.com/tahaboroushaki)
+- Telegram: [@tahaboroushaki](https://t.me/tahaboroushaki)
+
+---
+
+*Learning, building, and improving — one commit at a time.*
